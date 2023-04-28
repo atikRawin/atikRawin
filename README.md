@@ -23,6 +23,14 @@
 
 - ⚡ Fun fact **I love Mixed Martials Arts & Sometimes I do practise BJJ.**
 
+## 💻 Work Experience
+- Trainee Software Engineere at BJIT <br />
+- Node.js Internship<br />
+
+## 📚 Training
+- BJIT Academy - JAVA 
+- CODEX Academy - NODE
+
 ## 🎓 Education
 - Daffodil International University, BSC in CSE 
 - Sheikh Helal Uddun Degree Collage.
