@@ -5,29 +5,22 @@
 
 ## 👨🏽‍💻 About Myself
 
-- 🔭 I’m currently working on [Amazona](https://amazona.onrender.com/)
+- 🔭 I’m currently working on Microservice based Spring Boot Project.
 
 - 🌱 I’m currently learning **Servlet, JSP, Spring, Spring Boot**
 
-- 👯 I’m looking to collaborate on [recipe-hub](https://github.com/uksaha77/recipe-hub)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-ivory-50.vercel.app/](https://portfolio-psi-ivory-50.vercel.app/)
-
 - 💬 Ask me about **CPP, Java, React**
 
-- 📫 How to reach me **habibullah.howlader@bjitacademy.com**
-
-- 📄 Know about my experiences [https://portfolio-psi-ivory-50.vercel.app/](https://portfolio-psi-ivory-50.vercel.app/)
+- 📫 How to reach me **atik.shahriar@gmail.com**
 
 - ⚡ Fun fact **I love Mixed Martials Arts & Sometimes I do practise BJJ.**
 
 ## 💻 Work Experience
-- Trainee Software Engineere at BJIT <br />
-- Node.js Internship<br />
+-  Software Engineere at Fleet Bangladesh and Technology Palli <br />
+-  Java Internship<br />
 
 ## 📚 Training
-- BJIT Academy - JAVA 
-- CODEX Academy - NODE
+- Creative It Institute Feb 2020 - Aug 2020
 
 ## 🎓 Education
 - Daffodil International University, BSC in CSE 
