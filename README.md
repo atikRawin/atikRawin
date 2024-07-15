@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Habibullah Howlader</h1>
-<h4 align="center">A passionate Problem Solver & Full Stack Web Developer from Bangladesh. Currently, I am working as a Trainee Software Engineer at BJIT.</h4>
+<h1 align="center">Hi 👋, I'm Atik Shahriar Rawin</h1>
+<h4 align="center">Accomplished Software Engineer with experience at Fleet Bangladesh and Technology Palli. I hold a remarkable 3.39 CGPA in CSE from Daffodil International University. Proven competitive programmer with 300+ problems solved and participation in prestigious competitions like ICPC. Strong foundation in data structures and algorithms.</h4>
 
 
 
