@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Atik Shahriar Rawin</h1>
+<h1 align="center">Hi 👋, I'm MD ATIK SHAHRIAR</h1>
 <h4 align="center">Accomplished Software Engineer with experience at Fleet Bangladesh and Technology Palli. I hold a remarkable 3.39 CGPA in CSE from Daffodil International University. Proven competitive programmer with 300+ problems solved and participation in prestigious competitions like ICPC. Strong foundation in data structures and algorithms.</h4>
 
 
 
 ## 👨🏽‍💻 About Myself
 
-- 🔭 I’m currently working on Microservice based Spring Boot Project.
+- 🔭  I’m currently working on a Courier Management system project.
 
 - 🌱 I’m currently learning **Servlet, JSP, Spring, Spring Boot**
 
 - 💬 Ask me about **CPP, Java, React**
 
-- 📫 How to reach me **atik.shahriar@gmail.com**
+- 📫 How to reach me **atik.rawin@gmail.com**
 
 - ⚡ Fun fact **I love Mixed Martials Arts & Sometimes I do practise BJJ.**
 
@@ -24,7 +24,7 @@
 
 ## 🎓 Education
 - Daffodil International University, BSC in CSE 
-- Sheikh Helal Uddun Degree Collage.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
