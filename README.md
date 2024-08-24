@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love Mixed Martials Arts & Sometimes I do practise BJJ.**
 
 ## 💻 Work Experience
--  Software Engineere at Fleet Bangladesh and Technology Palli <br />
+-  Software Engineer at Fleet Bangladesh and Technology Palli <br />
 -  Java Internship<br />
 
 ## 📚 Training
