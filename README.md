@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD ATIK SHAHRIAR</h1>
-<h4 align="center">Accomplished Software Engineer with experience at Fleet Bangladesh and Technology Palli. I hold a remarkable 3.39 CGPA in CSE from Daffodil International University. Proven competitive programmer with 300+ problems solved and participation in prestigious competitions like ICPC. Strong foundation in data structures and algorithms.</h4>
+<h4 align="center">Accomplished Software Engineer with experience at Fleet Bangladesh and Technology Palli. I hold a remarkable 3.39 CGPA in CSE from Daffodil International University. Proven competitive programmer and participation in prestigious competitions like ICPC. Strong foundation in data structures and algorithms.</h4>
 
 
 
